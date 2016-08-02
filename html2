@@ -1,0 +1,60 @@
+The following is related with the tutorial present on http://www.anastasionico.uk/feeds/40/coding
+Click to get more information
+Basic tag and attribute in HTML
+HTML lesson 1:
+	
+	Structure of a Web page:
+	
+		<html>
+			<head>
+			</head>
+			<body>
+			</body>
+		</html>
+	
+	
+	
+	Attributes:
+	
+		<Tag attribute1 = "value1" attribute2 = "value2">
+	
+	
+	
+	Block element:
+		<address>
+		<article>
+		<aside>
+		<blockquote>
+		<canvas>
+		<dd>
+		<div>
+		<dl>
+		<fieldset>
+		<figcaption>
+		<figure>
+		<footer>
+		<form>
+		<h1>
+		<h2>
+		<h3>
+		<h4>
+		<h5>
+		<h6>
+		<header>
+		<hgroup>
+		<hr>
+		<li>
+		<main>
+		<nav>
+		<noscript>
+		<ol>
+		<output>
+		<p>
+		<pre>
+		<section>
+		<table>
+		<tfoot>
+		<ul>
+		<video>
+	
+	
